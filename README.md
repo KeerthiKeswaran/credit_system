@@ -1,4 +1,5 @@
 # Credit Approval System Backend
+### (Backend Assignment - Alemeno)
 
 This project is a credit evaluation and loan management system built using Django REST Framework. It enables customer onboarding, credit approval, loan issuance, loan eligibility analysis, and EMI tracking. It also includes a background task pipeline using Celery and Redis for initial data loading.
 
