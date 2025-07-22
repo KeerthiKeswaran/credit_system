@@ -54,9 +54,7 @@ python manage.py runserver
 ```
 
 Folder Structure
-bash
-Copy
-Edit
+```bash
 credit_system/
 │
 ├── credit_app/             # Django app for handling logic
@@ -85,7 +83,7 @@ credit_system/
 ├── manage.py               # Django CLI entry
 ├── .env                    # Environment variables (not tracked)
 └── README.md               # Project documentation
-
+```
 
 ### API Endpoints
 
